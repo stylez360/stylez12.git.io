@@ -1,1 +1,1 @@
-# stylez12.git.io
+# stylez12.github.io
